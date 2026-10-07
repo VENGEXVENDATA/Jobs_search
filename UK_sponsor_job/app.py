@@ -40,4 +40,4 @@ def load_data():
     """)
     st.stop()
 
-df = load_data()
+df = load_data() 
